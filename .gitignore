@@ -1,0 +1,8 @@
+Frameworks
+.XcodeSupport
+*.pbxproj
+*.xcodeproj
+*.cib
+.DS_Store
+
+
