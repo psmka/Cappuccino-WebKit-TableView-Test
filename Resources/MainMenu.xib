@@ -640,7 +640,7 @@
 			<object class="NSWindowTemplate" id="972006081">
 				<int key="NSWindowStyleMask">7</int>
 				<int key="NSWindowBacking">2</int>
-				<string key="NSWindowRect">{{335, 390}, {480, 360}}</string>
+				<string key="NSWindowRect">{{335, 390}, {789, 493}}</string>
 				<int key="NSWTFlags">1946157056</int>
 				<string key="NSWindowTitle">Window</string>
 				<string key="NSWindowClass">NSWindow</string>
@@ -664,7 +664,7 @@
 										<object class="NSTableView" id="436046514">
 											<reference key="NSNextResponder" ref="304519505"/>
 											<int key="NSvFlags">256</int>
-											<string key="NSFrameSize">{238, 218}</string>
+											<string key="NSFrameSize">{572, 424}</string>
 											<reference key="NSSuperview" ref="304519505"/>
 											<reference key="NSWindow"/>
 											<reference key="NSNextKeyView" ref="783427210"/>
@@ -675,7 +675,7 @@
 											<object class="NSTableHeaderView" key="NSHeaderView" id="1070774588">
 												<reference key="NSNextResponder" ref="783427210"/>
 												<int key="NSvFlags">256</int>
-												<string key="NSFrameSize">{238, 17}</string>
+												<string key="NSFrameSize">{572, 17}</string>
 												<reference key="NSSuperview" ref="783427210"/>
 												<reference key="NSWindow"/>
 												<reference key="NSNextKeyView" ref="304519505"/>
@@ -719,7 +719,7 @@
 											<int key="NSTableViewGroupRowStyle">1</int>
 										</object>
 									</object>
-									<string key="NSFrame">{{1, 17}, {238, 218}}</string>
+									<string key="NSFrame">{{1, 17}, {572, 424}}</string>
 									<reference key="NSSuperview" ref="477058631"/>
 									<reference key="NSWindow"/>
 									<reference key="NSNextKeyView" ref="436046514"/>
@@ -747,8 +747,7 @@
 									<bool key="NSAllowsLogicalLayoutDirection">NO</bool>
 									<reference key="NSTarget" ref="477058631"/>
 									<string key="NSAction">_doScroller:</string>
-									<double key="NSCurValue">37</double>
-									<double key="NSPercent">0.1947367936372757</double>
+									<double key="NSPercent">0.97701149425287359</double>
 								</object>
 								<object class="NSScroller" id="288683972">
 									<reference key="NSNextResponder" ref="477058631"/>
@@ -770,7 +769,7 @@
 										<bool key="EncodedWithXMLCoder">YES</bool>
 										<reference ref="1070774588"/>
 									</object>
-									<string key="NSFrame">{{1, 0}, {238, 17}}</string>
+									<string key="NSFrame">{{1, 0}, {572, 17}}</string>
 									<reference key="NSSuperview" ref="477058631"/>
 									<reference key="NSWindow"/>
 									<reference key="NSNextKeyView" ref="1070774588"/>
@@ -780,7 +779,7 @@
 									<int key="NScvFlags">4</int>
 								</object>
 							</object>
-							<string key="NSFrame">{{20, 104}, {240, 236}}</string>
+							<string key="NSFrame">{{20, 31}, {574, 442}}</string>
 							<reference key="NSSuperview" ref="439893737"/>
 							<reference key="NSWindow"/>
 							<reference key="NSNextKeyView" ref="304519505"/>
@@ -796,10 +795,9 @@
 							<double key="NSMagnification">1</double>
 						</object>
 					</object>
-					<string key="NSFrameSize">{480, 360}</string>
+					<string key="NSFrameSize">{789, 493}</string>
 					<reference key="NSSuperview"/>
 					<reference key="NSWindow"/>
-					<reference key="NSNextKeyView"/>
 				</object>
 				<string key="NSScreenRect">{{0, 0}, {1440, 878}}</string>
 				<string key="NSMaxSize">{10000000000000, 10000000000000}</string>
